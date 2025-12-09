@@ -2,7 +2,8 @@
 
 ## 1. Holograms
 
-![ica-2](https://github.com/user-attachments/assets/7f884a83-6986-4ae1-b591-53b23ee2e079)
+![ica-2](https://github.com/user-attachments/assets/229bf024-b647-4fa1-8c07-067f9d43c2e8)
+
 Hologram effect provides a sci-fi style to game. I modefied the shader graph to allow there is a texture option for objects, rather than basic colors.
 
 In Pac-Man, this can be used on dots if we are using sci-fi theme or we can have a mechanic that create a hologram of pacman to distract enemies.
