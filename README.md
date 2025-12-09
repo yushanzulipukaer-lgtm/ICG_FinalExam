@@ -8,6 +8,9 @@ Hologram effect provides a sci-fi style to game. I modefied the shader graph to 
 
 In Pac-Man, this can be used on dots if we are using sci-fi theme or we can have a mechanic that create a hologram of pacman to distract enemies.
 
+<img width="1504" height="789" alt="image" src="https://github.com/user-attachments/assets/a9a57a29-4133-4e2c-acaf-2e75a8889cf4" />
+
+
 # Additional Shaders:
 
 ## 1.RimLight
@@ -18,6 +21,9 @@ The rimlighting can be used to target the enemies or dots.
 
 Also, we can have it on dots prividing more points ( seperating them from other ordinary dots ).
 
+<img width="1442" height="721" alt="image" src="https://github.com/user-attachments/assets/6f2414b4-3100-498e-a21a-0a302c250c7a" />
+
+
 ## 2.Modified Scrolling Fluid
 
 ![ica-1](https://github.com/user-attachments/assets/674ccf1f-0737-4016-bb48-1e2e5f420e8d)
@@ -26,3 +32,5 @@ We can use this shader to modify what many kind of fluids, like lava, toxic-look
 
 We can add some areas to have additional mechanics. For examples, we can have water areas and we have to look for boats, which were hidden, to get across;
 toxic-looking, green areas as spawn points of enemies; dodge splashes from lavas, etc.
+
+<img width="1426" height="589" alt="image" src="https://github.com/user-attachments/assets/a07008ec-3302-402a-98e0-dd1c44059e00" />
