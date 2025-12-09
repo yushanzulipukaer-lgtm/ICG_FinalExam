@@ -10,6 +10,12 @@ In Pac-Man, this can be used on dots if we are using sci-fi theme or we can have
 
 <img width="1504" height="789" alt="image" src="https://github.com/user-attachments/assets/a9a57a29-4133-4e2c-acaf-2e75a8889cf4" />
 
+## 2.Scrolling Texture
+
+This can be used in outside view while we are on a train. Attatch them on different materials with different images and set them with different velocities.
+For example, set sky image at the furthest and scroll slow, montain's closer and faster,etc.
+
+The reason why I couldn't implement because I wanted to create with shader graph but I couldn't find a way to seperate UV's on X and Y axis.
 
 # Additional Shaders:
 
